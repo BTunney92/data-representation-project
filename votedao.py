@@ -1,5 +1,6 @@
 import dbconfig as cfg
 
+
 import mysql.connector 
 
 class VoteDAO:
